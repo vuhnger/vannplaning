@@ -1,28 +1,6 @@
 
 # Vannplaning
 
-![Logo av appen](https://github.uio.no/IN2000-V24/team-21/blob/main/Images/Vannplaning-logo.png?raw=true)
-## Innholdsfortegnelse
-- [[#Hva er dette prosjektet?|Hva er dette prosjektet?]]
-- [[#Oppsett og nedlasting|Oppsett og nedlasting]]
-	- [[#Oppsett og nedlasting#Forutsetninger|Forutsetninger]]
-	- [[#Oppsett og nedlasting#Kom i gang|Kom i gang]]
-		- [[#Kom i gang#Alternativ 1 - Last ned APK-fil|Alternativ 1 - Last ned APK-fil]]
-		- [[#Kom i gang#Alternativ 2 - Emuler appen med Android Studio|Alternativ 2 - Emuler appen med Android Studio]]
-	- [[#Oppsett og nedlasting#Ved problemer|Ved problemer]]
-- [[#Teknologier og biblioteker|Teknologier og biblioteker]]
-	- [[#Teknologier og biblioteker#App og UI|App og UI]]
-	- [[#Teknologier og biblioteker#Nettverk og API-er|Nettverk og API-er]]
-	- [[#Teknologier og biblioteker#Lokal database|Lokal database]]
-	- [[#Teknologier og biblioteker#Kartfunksjonalitet|Kartfunksjonalitet]]
-- [[#Bilder|Bilder]]
-- [[#Om utviklerene|Om utviklerene]]
-## Hva er dette prosjektet?
-
-Vannplaning ble utviklet som et prosjekt i emnet [IN2000 (Software Engineering med prosjektarbeid)](https://www.uio.no/studier/emner/matnat/ifi/IN2000/v24/) ved institutt for informatikk hos Universitetet i Oslo våren 2024. Emnet gir studenter praktisk erfaring med Software Engineering gjennom prosjektarbeid. Prosjektet gikk ut på å lage en applikasjon for Android-enheter som løser en problemstilling knyttet til Havvarsler. Vi brukte tre API-er fra Metrologisk institutt for å utvikle en app som gir brukere anbefalte fritidsaktiviteter på eller ved vannet. 
-
-Dette repoet inneholder kildekode og dokumentasjon av team 21 sin løsning på prosjektet.
-
 ## Oppsett og nedlasting
 
 ### Forutsetninger
